@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus
 
-Sou desenvolvedor em formação com foco em **Backend e Full Stack**, interessado em construir APIs bem estruturadas, aplicações funcionais e soluções que resolvem problemas reais.
+Sou desenvolvedor em formação com foco em **Backend e Full Stack**, interessado em construir APIs bem estruturadas, aplicações completas e soluções que resolvem problemas reais.
 
-Atualmente, venho aplicando boas práticas de desenvolvimento, arquitetura em camadas e integração entre front-end e back-end.
+Tenho experiência prática com desenvolvimento backend, frontend e integração entre sistemas, aplicando boas práticas, organização de código e aprendizado contínuo.
 
 ---
 
@@ -10,35 +10,45 @@ Atualmente, venho aplicando boas práticas de desenvolvimento, arquitetura em ca
 
 ### 📦 Sistema de Controle de Estoque
 
-Projeto em desenvolvimento com foco em gerenciamento de produtos e estoque, simulando um cenário real de aplicação empresarial.
+Projeto **full stack** em desenvolvimento, simulando um cenário real de aplicação empresarial para gerenciamento de estoque.
 
-**Principais objetivos do projeto:**
+🔹 **Frontend**
+- React
+- Material UI
+- React Router
+- Axios
+
+🔹 **Backend**
+- Java 17+
+- Spring Boot 3
+- Spring Security
+- JWT (JSON Web Token)
+- Spring Data JPA
+- PostgreSQL
+- API REST
+
+🔹 **Foco do projeto**
 - Cadastro e gerenciamento de produtos
 - Controle de entradas e saídas de estoque
-- Organização de dados para relatórios futuros
-- Estrutura backend escalável
+- Autenticação e autorização de usuários
+- Integração completa entre frontend e backend
+- Evolução contínua com boas práticas
 
-**Tecnologias previstas / em uso:**
-- Node.js
-- TypeScript
-- API REST
-- Banco de dados relacional
-- Git e GitHub
-
-> 🔨 Projeto em evolução contínua, com foco em boas práticas e aprendizado prático.
+👉 Repositório: https://github.com/msfeques/Controle-Estoque
 
 ---
 
 ## 🚀 Tecnologias
 
-- JavaScript / TypeScript  
-- Node.js  
-- APIs REST  
-- React Native  
-- Git e GitHub
+- JavaScript / TypeScript
+- Node.js
+- APIs REST
 - React
+- React Native
 - Java
-- Springboot
+- Spring Boot
+- PostgreSQL
+- Git e GitHub
 
 ---
 
