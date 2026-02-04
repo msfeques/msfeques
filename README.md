@@ -1,67 +1,89 @@
-# 👋 Olá, eu sou o Matheus
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1E90FF&height=180&section=header&text=Matheus%20Feques&fontSize=40&fontColor=ffffff" />
 
-Sou desenvolvedor em formação com foco em **Backend e Full Stack**, interessado em construir APIs bem estruturadas, aplicações completas e soluções que resolvem problemas reais.
+<h2 align="left">👋 Olá! Eu sou o Matheus Feques</h2>
 
-Tenho experiência prática com desenvolvimento backend, frontend e integração entre sistemas, aplicando boas práticas, organização de código e aprendizado contínuo.
+### 👨‍💻 Sobre mim
 
----
+Sou **desenvolvedor de software em formação**, focado em **backend, APIs e aplicações full stack**, com experiência prática em projetos usando **Node.js, Java/Spring Boot, React Native e bancos de dados relacionais**.
 
-## 🚧 Trabalhando atualmente
+Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software**, **boas práticas de código**, **APIs REST**, **autenticação**, e **organização de projetos reais**, sempre com foco em código limpo e escalável.
 
-### 📦 Sistema de Controle de Estoque
-
-Projeto **full stack** em desenvolvimento, simulando um cenário real de aplicação empresarial para gerenciamento de estoque.
-
-🔹 **Frontend**
-- React
-- Material UI
-- React Router
-- Axios
-
-🔹 **Backend**
-- Java 17+
-- Spring Boot 3
-- Spring Security
-- JWT (JSON Web Token)
-- Spring Data JPA
-- PostgreSQL
-- API REST
-
-🔹 **Foco do projeto**
-- Cadastro e gerenciamento de produtos
-- Controle de entradas e saídas de estoque
-- Autenticação e autorização de usuários
-- Integração completa entre frontend e backend
-- Evolução contínua com boas práticas
-
-👉 Repositório: https://github.com/msfeques/Controle-Estoque
+- 🎯 Interesse principal: Backend e Full Stack  
+- 📚 Estudando: Arquitetura em camadas, APIs REST, autenticação e banco de dados  
+- 🚀 Objetivo: Evoluir para uma vaga **Júnior / Estágio em Desenvolvimento**  
 
 ---
 
-## 🚀 Tecnologias
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-- JavaScript / TypeScript
-- Node.js
-- APIs REST
-- React
-- React Native
-- Java
-- Spring Boot
-- PostgreSQL
-- Git e GitHub
+### 🚧 Trabalhando atualmente
 
----
+#### 📦 Controle de Estoque
+🔗 https://github.com/msfeques/Controle-Estoque
 
-## 📌 Projetos em Destaque
+Projeto backend focado no **gerenciamento de estoque**, utilizado como base de estudo e evolução contínua.
 
-- **API de Gestão de Eventos**  
-  API REST desenvolvida com Node.js e TypeScript, utilizando autenticação JWT e arquitetura em camadas.
+**Principais pontos do projeto:**
+- API REST para controle de produtos
+- Organização em camadas (Controller, Service, Repository)
+- Validação de dados
+- Integração com banco de dados
+- Boas práticas de backend
 
-- **Users-Adm**  
-  Aplicação mobile em React Native para gerenciamento de usuários.
+Este projeto representa meu **nível técnico atual** e está em constante melhoria.
 
 ---
 
-## 🎯 Objetivo
+### 🛠️ Tech Stack
 
-Atuar como **estagiário ou desenvolvedor júnior**, contribuindo com código limpo, aprendizado contínuo e colaboração em equipe.
+#### Linguagens & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📂 Projetos em destaque
+
+- 🔐 **API de Gestão de Eventos** – API REST com autenticação e arquitetura em camadas  
+- 👥 **Users-Adm** – Aplicação mobile para gerenciamento de usuários  
+- 📦 **Controle de Estoque** – Projeto backend principal (em andamento)  
+- 🏠 **Interface Casa Automatizada** – Interface para automação residencial  
+- 📱 **Projetos em React Native** – Apps focados em UI e lógica de estado  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=msfeques&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msfeques&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+### 🤝 Vamos conversar?
+
+Estou sempre aberto a:
+- Feedbacks técnicos
+- Colaboração em projetos
+- Oportunidades de estágio ou vaga júnior
+
+📫 **GitHub:** https://github.com/msfeques  
+
+---
+
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+</div>
