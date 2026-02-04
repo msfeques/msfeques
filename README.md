@@ -42,6 +42,7 @@ Este projeto representa meu **nível técnico atual** e está em constante melho
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 #### Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -81,7 +82,7 @@ Estou sempre aberto a:
 - Oportunidades de estágio ou vaga júnior
 
 📫 **GitHub:** https://github.com/msfeques  
-
+💻 **Linkedin:** https://www.linkedin.com/in/matheus-silveira-feques-8aab6230a/
 ---
 
 <div align="center">
