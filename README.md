@@ -60,17 +60,6 @@ Este projeto representa meu **nível técnico atual** e está em constante melho
 - 🔐 **API de Gestão de Eventos** – API REST com autenticação e arquitetura em camadas  
 - 👥 **Users-Adm** – Aplicação mobile para gerenciamento de usuários  
 - 📦 **Controle de Estoque** – Projeto backend principal (em andamento)  
-- 🏠 **Interface Casa Automatizada** – Interface para automação residencial  
-- 📱 **Projetos em React Native** – Apps focados em UI e lógica de estado  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=msfeques&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msfeques&layout=compact&theme=github_dark"/>
-</p>
 
 ---
 
